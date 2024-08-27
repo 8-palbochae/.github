@@ -1,16 +1,20 @@
 # 🦐여보소(SeaHere)
 
-프로젝트 개요~~~~
+<p align="center">
+  <img src="./logo.png">
+  <br>
+  프로젝트 개요~~~~
+</p>
 
 <p align=center>
-  <a href="#">팀 노션</a>
+  <a href="https://www.notion.so/c6626df97574434a8b9f8358b00ece75?v=6f696739249448e392872058a527721e">팀 노션</a>
   &nbsp; | &nbsp; 
-  <a href="#">백로그</a>
+  <a href="https://www.notion.so/API-685de6db49e44954af21b2448a3d9df0">API 명세서</a>
   &nbsp; | &nbsp;
-  <a href="#">기획서</a>   &nbsp; | &nbsp;
-  <a href="#">figma</a> 
+  <a href="https://www.notion.so/eadc3fae3a3e40c0a89e97525a234e04">요구사항 정의서</a>   &nbsp; | &nbsp;
+  <a href="https://www.figma.com/design/hEmRP4qZuf1fJTlT32mOiE/SeaHere?node-id=0-1">figma</a> 
   <br />
-  <a href="#">그라운드 룰</a>
+  <a href="https://www.notion.so/GROUND-RULE-d227d18aba144bd8acc6459aacd075fa">그라운드 룰</a>
   &nbsp; | &nbsp; 
   <a href="#">개발 위키</a>
 </p>
@@ -18,7 +22,6 @@
 ## ⚙️ 기술스택
 
  <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div style="text-align: center">
     <h3 style="border-bottom: 1px  color: #282d33;"> FrontEnd </h3>
         <div style="margin: ; text-align: left;" "text-align: left;"> 
