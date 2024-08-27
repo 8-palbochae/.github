@@ -17,8 +17,14 @@
   <br />
   <a href="https://www.notion.so/GROUND-RULE-d227d18aba144bd8acc6459aacd075fa">그라운드 룰</a>
   &nbsp; | &nbsp; 
-  <a href="#">개발 위키</a>
+  <a href="https://www.notion.so/ebef5b8991c645f79bf462a5d37589c8">트러블 슈팅</a>
 </p>
+
+## 📢 SeaHere 사용해보기
+
+<p align="center">
+      https://broker.seahere.org/ <br>
+      https://coustomer.seahere.org/
 
 ## ⚙️ 기술스택
 
