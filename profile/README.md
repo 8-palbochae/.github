@@ -67,12 +67,89 @@
     <div style="margin: ; text-align: left;" "text-align: left;">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
       <img src="https://img.shields.io/badge/Git-94B431?style=for-the-badge&logo=Git&logoColor=white">
+      <img src="https://img.shields.io/badge/slack-916?style=for-the-badge&logo=slack&logoColor=white">
     </div>
 </div>
 
+## 🏛️ 시스템 아키텍처
+
+## 🗂️ Directory 구조도
+
+### BE
+
+```
+📦main
+ ┣ 📂generated
+ ┣ 📂java
+ ┃ ┗ 📂com
+ ┃ ┃ ┗ 📂seahere
+ ┃ ┃ ┃ ┗ 📂backend
+ ┃ ┃ ┃ ┃ ┣ 📂adjust
+ ┃ ┃ ┃ ┃ ┣ 📂alarm
+ ┃ ┃ ┃ ┃ ┣ 📂auth
+ ┃ ┃ ┃ ┃ ┣ 📂common
+ ┃ ┃ ┃ ┃ ┣ 📂company
+ ┃ ┃ ┃ ┃ ┣ 📂follow
+ ┃ ┃ ┃ ┃ ┣ 📂history
+ ┃ ┃ ┃ ┃ ┣ 📂incoming
+ ┃ ┃ ┃ ┃ ┣ 📂inventory
+ ┃ ┃ ┃ ┃ ┣ 📂ocr
+ ┃ ┃ ┃ ┃ ┣ 📂outgoing
+ ┃ ┃ ┃ ┃ ┣ 📂product
+ ┃ ┃ ┃ ┃ ┣ 📂qr
+ ┃ ┃ ┃ ┃ ┣ 📂redis
+ ┃ ┃ ┃ ┃ ┣ 📂s3
+ ┃ ┃ ┃ ┃ ┣ 📂sales
+ ┃ ┃ ┃ ┃ ┣ 📂user
+ ┃ ┃ ┃ ┃ ┗ 📜BackendApplication.java
+ ┗ 📂resources
+```
+
+### FE
+
+```
+📦src
+ ┣ 📂api
+ ┣ 📂assets
+ ┣ 📂components
+ ┣ 📂constants
+ ┣ 📂hooks
+ ┣ 📂pages
+ ┣ 📂stores
+ ┣ 📂types
+```
+
 ## 🚀 핵심 기능
 
-## 🏛️ 시스템 아키텍처
+### 🪸 공통
+
+#### 회원가입
+
+#### 로그인
+
+#### 알림 내역
+
+#### 설정
+
+#### 푸쉬 알림
+
+### 🦑 브로커
+
+#### 사업자 등록
+
+#### 입고
+
+#### 재고
+
+#### 출고
+
+#### 교환
+
+### 🐙 커스터머
+
+#### 출고 요청
+
+#### 팔로우
 
 ## 팀원 소개
 
