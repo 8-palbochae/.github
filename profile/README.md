@@ -1,7 +1,7 @@
 # 🦐여보소(SeaHere)
 
 <p align="center">
-  <img src="./logo.png">
+  <img src="../image/logo.png">
   <br>
   전체 프로젝트 기간 : 2024-07-15 ~ 2024-08-29 <br>
   프로젝트 개요~~~~
@@ -153,8 +153,8 @@
 
 ## 팀원 소개
 
-|                   김도영                   |                   정기석                   |                 장호영                 |                     안채원                     |
-| :----------------------------------------: | :----------------------------------------: | :------------------------------------: | :--------------------------------------------: |
-|        <img src="#" width="120" />         |        <img src="#" width="120" />         |       <img src="#" width="120">        |           <img src="#" width="120">            |
-|         **Full-Stack** ,**Leader**         |               **Full-Stack**               |             **Full-Stack**             |                 **Full-Stack**                 |
-| [@kimdodo97](https://github.com/kimdodo97) | [@wjdrltjr5](https://github.com/wjdrltjr5) | [@jang643](https://github.com/jang643) | [@woneveryday](https://github.com/woneveryday) |
+|                       김도영                       |                        정기석                        |                      장호영                       |                      안채원                      |
+| :------------------------------------------------: | :--------------------------------------------------: | :-----------------------------------------------: | :----------------------------------------------: |
+| <img src="../image/profile_kim.png" width="100" /> | <img src="../image/profile_jeong.png" width="120" /> | <img src="../image/profile_jang.png" width="120"> | <img src="../image/profile_ahn.png" width="100"> |
+|             **Full-Stack** ,**Leader**             |                    **Full-Stack**                    |                  **Full-Stack**                   |                  **Full-Stack**                  |
+|     [@kimdodo97](https://github.com/kimdodo97)     |      [@wjdrltjr5](https://github.com/wjdrltjr5)      |      [@jang643](https://github.com/jang643)       |  [@woneveryday](https://github.com/woneveryday)  |
