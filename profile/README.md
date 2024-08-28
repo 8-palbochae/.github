@@ -155,6 +155,6 @@
 
 |                       김도영                       |                        정기석                        |                      장호영                       |                      안채원                      |
 | :------------------------------------------------: | :--------------------------------------------------: | :-----------------------------------------------: | :----------------------------------------------: |
-| <img src="../image/profile_kim.png" width="100" /> | <img src="../image/profile_jeong.png" width="120" /> | <img src="../image/profile_jang.png" width="120"> | <img src="../image/profile_ahn.png" width="100"> |
+| <img src="../image/profile_kim.png" width="100" /> | <img src="../image/profile_jeong.png" width="100" /> | <img src="../image/profile_jang.png" width="100"> | <img src="../image/profile_ahn.png" width="100"> |
 |             **Full-Stack** ,**Leader**             |                    **Full-Stack**                    |                  **Full-Stack**                   |                  **Full-Stack**                  |
 |     [@kimdodo97](https://github.com/kimdodo97)     |      [@wjdrltjr5](https://github.com/wjdrltjr5)      |      [@jang643](https://github.com/jang643)       |  [@woneveryday](https://github.com/woneveryday)  |
