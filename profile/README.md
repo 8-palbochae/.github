@@ -121,35 +121,38 @@
 
 ## 🚀 핵심 기능
 
-### 🪸 공통
-
-#### 회원가입
-
 #### 로그인
 
-#### 알림 내역
-
-#### 설정
+![alt text](../gif/seahere_login.gif)
 
 #### 푸쉬 알림
 
-### 🦑 브로커
+![alt text](../gif/seahere_push_alarm.gif)
 
 #### 사업자 등록
 
+![alt text](../gif/seahere_broker_ocr.gif)
+
 #### 입고
+
+![alt text](../gif/seahere_broker_incoming_qr2.gif)
 
 #### 재고
 
+![alt text](../gif/seahere_inventory.gif)
+
 #### 출고
 
-#### 교환
+![alt text](../gif/broker_outgoing.gif)
+![alt text](../gif/seahere_broker_outgoing.gif)
 
-### 🐙 커스터머
+#### Qr코드 저장
 
-#### 출고 요청
+![alt text](../gif/seahere_qr_setting.gif)
 
-#### 팔로우
+#### 통계
+
+![alt text](../gif/seahere_chart.gif)
 
 ## 팀원 소개
 
