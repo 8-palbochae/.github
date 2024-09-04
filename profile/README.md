@@ -72,7 +72,10 @@
 </div>
 
 ## 🏛️ 시스템 아키텍처
-
+<p align="center">
+<img src="../image/시스템아키텍처.png">
+<img src="../image/cicd.png">
+</p>
 ## 🗂️ Directory 구조도
 
 ### BE
